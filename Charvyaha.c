@@ -14,7 +14,8 @@ Constraints
 1 <= T <= 10
 4 <= N <= 30
 -50 <= X, Y <= 50
-All (X,Y) in a test case are unique.*/
+All (X,Y) in a test case are unique. 
+*/
 
 /*===========================================================  SOLUTION BY SUDIPA GHOSH - Roll - 16900119008 - CSE2 ===============================================*/
 
